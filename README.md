@@ -1,3 +1,3 @@
 # personal website
 
-[check it out here](https://benedict.bihlmaier.de)
+[check it out here](https://www.benedictbihlmaier.de)
