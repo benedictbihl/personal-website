@@ -19,6 +19,7 @@
   img {
     width: 35%;
     border-radius: 50%;
+    border: 3px solid #232121;
   }
   p {
     margin: 1em auto;

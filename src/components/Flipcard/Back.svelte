@@ -17,6 +17,7 @@
     border-radius: 50%;
     width: 50%;
     display: inline-block;
+    border: 3px solid #232121;
   }
 
   @media (min-width: 480px) {
