@@ -13,8 +13,6 @@
   const unsubscribe = clientHeight.subscribe(value => {
     clientHeight_value = value;
   });
-
-  $: console.log(clientHeight_value);
 </script>
 
 <style>

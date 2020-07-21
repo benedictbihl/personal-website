@@ -1,5 +1,5 @@
 <script>
-  import LinkBar from "../components/LinkBar.svelte";
+
 </script>
 
 <style>
@@ -11,6 +11,7 @@
     position: relative;
     max-width: 60em;
     padding: 2em;
+    padding-bottom: 0;
     margin: 0 auto;
     box-sizing: border-box;
   }
@@ -19,4 +20,3 @@
 <main>
   <slot />
 </main>
-<LinkBar />

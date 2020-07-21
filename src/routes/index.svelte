@@ -1,5 +1,6 @@
 <script>
   import Flipcard from "../components/Flipcard/Flipcard.svelte";
+  import LinkBar from "../components/LinkBar.svelte";
 </script>
 
 <style>
@@ -24,3 +25,4 @@
 </svelte:head>
 <h1>Hey you! Thanks for stopping by</h1>
 <Flipcard />
+<LinkBar />

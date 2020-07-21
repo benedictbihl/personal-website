@@ -1,6 +1,5 @@
 <style>
   footer {
-    position: fixed;
     bottom: 0;
     right: 0;
     background: #668b8b;
@@ -18,6 +17,11 @@
   img {
     width: 28px;
     padding: 0 10px;
+  }
+
+  .imprint {
+    font-size: 12px;
+    text-decoration: none;
   }
 
   @media (min-width: 480px) {
@@ -41,5 +45,8 @@
     <a href="mailto:benedict.bihlmaier@gmail.com">
       <img src="mail.png" alt="" />
     </a>
+  </div>
+  <div>
+    <a class="imprint" href="/imprint">imprint</a>
   </div>
 </footer>
