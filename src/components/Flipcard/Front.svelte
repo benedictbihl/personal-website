@@ -67,16 +67,16 @@
     The creative use of technology is what enables me to bring ideas to life,
     making it easy for users & clients to stop guessing if something works by
     just trying it. The web happens to be my favorite platform for that. No
-    matter if as webapp, mobile app or on a smart toaster, I love building stuff
-    for it. Of course I also enjoy shipping production-ready code as a change to
-    rapid prototyping 😉 At the moment I´m working as Intermediate Creative
-    Technologist @
-    <a target="_blank" href="https://www.designaffairs.com">designaffairs</a>
-    , building tangible product visions of the future.
+    matter if as web app, mobile app or on a smart toaster, I love building
+    stuff for it. Of course, I also enjoy shipping production-ready code as a
+    change to rapid prototyping 😉 At the moment I'm working as Intermediate
+    Creative Technologist @
+    <a target="_blank" href="https://www.designaffairs.com">designaffairs,</a>
+    building tangible product visions of the future.
   </p>
   <div>
     <p class="paragraph_strong">
-      This is what i´ve gotten pretty good at so far:
+      This is what I've gotten pretty good at so far:
     </p>
     <ul>
       <li>Javascript</li>

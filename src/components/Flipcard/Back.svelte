@@ -33,8 +33,8 @@
   <img class="boulder" src="boulder.jpg" alt="" />
   <div class="about-me">
     <p>
-      Originially from a small town near Stuttgart, I went on to get my
-      bachelor´s degree in human-computer-interaction from
+      Originally from a small town near Stuttgart, I went on to get my
+      bachelor's degree in human-computer-interaction from
       Julius-Maximilians-University in Würzburg. During this time, I not only
       learned heaps about Usability Engineering, UX Design & Computer Science,
       but also got my first job as a Web Developer. Pretty soon I knew, that
@@ -42,9 +42,9 @@
       further after finishing uni.
     </p>
     <p>
-      In my spare time you´ll most likely find me in the bouldering gym on
+      In my spare time you'll most likely find me in the bouldering gym on
       weekdays & somewhere in the mountains on the weekend. Some days I just
-      want spend with my playstation, though. Apart from that, I thoroughly
+      want to spend with my PlayStation, though. Apart from that, I thoroughly
       enjoy cooking with my collection of cast iron pans & finding the right
       beer to go with my food.
     </p>
